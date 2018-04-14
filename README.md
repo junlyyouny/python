@@ -9,3 +9,6 @@
 ## kNN算法
 1. [kNN.py](https://github.com/junlyyouny/python/blob/master/kNN.py) python实现kNN算法
 2. [runKNN.py](https://github.com/junlyyouny/python/blob/master/runKNN.py) 运行kNN算法
+
+## 最小二乘法
+1. [leastSquare.py](https://github.com/junlyyouny/python/blob/master/leastSquare.py) 最小二乘法
