@@ -12,3 +12,6 @@
 
 ## 最小二乘法
 1. [leastSquare.py](https://github.com/junlyyouny/python/blob/master/leastSquare.py) 最小二乘法
+
+## 小游戏-外星人入侵
+1. [alienInvasion](https://github.com/junlyyouny/python/tree/master/alienInvasion) 小游戏-外星人入侵
