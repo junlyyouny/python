@@ -15,3 +15,6 @@
 
 ## 小游戏-外星人入侵
 1. [alienInvasion](https://github.com/junlyyouny/python/tree/master/alienInvasion) 小游戏-外星人入侵
+
+## web应用-学习笔记
+1. [learning_log](https://github.com/junlyyouny/python/tree/master/learning_log) web应用-学习笔记
