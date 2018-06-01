@@ -2,6 +2,7 @@ import sys
 from time import sleep
 
 import pygame
+import configparser
 
 from bullet import Bullet
 from alien import Alien
@@ -115,6 +116,14 @@ def check_high_score(stats, sb):
     if stats.score > stats.high_score:
         stats.high_score = stats.score
         sb.prep_high_score()
+        # 将最高分写入文件
+        config = configparser.ConfigParser()
+        try:
+            config.set('highScore', 'score', str(stats.high_score))
+        except configparser.NoSectionError:
+            config.add_section('highScore')
+            config.set('highScore', 'score', str(stats.high_score))
+        config.write(open('high_score.conf', 'w'))
             
 def check_bullet_alien_collisions(ai_settings, screen, stats, sb, ship,
         aliens, bullets):
