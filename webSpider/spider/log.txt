@@ -1,0 +1,19 @@
+DEBUG:root:2018-06-01 12:15:10 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:IOError: [Errno 2] No such file or directory: './output/jr.jd.com'
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:2018-06-01 12:21:09 - Thread-1 - File saved: ./output/jr.jd.com
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
+DEBUG:root:Exception: no host given
