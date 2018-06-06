@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 # kMeans算法测试
+# 运行环境: python3
 
 from numpy import *
 import kMeans
