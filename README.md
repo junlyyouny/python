@@ -18,3 +18,9 @@
 
 ## web应用-学习笔记
 1. [learning_log](https://github.com/junlyyouny/python/tree/master/learning_log) web应用-学习笔记
+
+## 语音识别练习
+1. [voice](https://github.com/junlyyouny/python/tree/master/voice) 语音识别练习
+
+## 配置文件练习
+1. [iniConfig](https://github.com/junlyyouny/python/tree/master/iniConfig) 配置文件练习
